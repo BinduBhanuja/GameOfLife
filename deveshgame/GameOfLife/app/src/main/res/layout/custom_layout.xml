@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Button android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    android:id="@+id/custombutton"
+    android:background="@color/colorAccent"
+    android:layout_margin="@dimen/default_gap"
+    android:layout_marginBottom="@dimen/default_gap"
+    android:layout_marginEnd="@dimen/default_gap"
+    android:layout_marginLeft="@dimen/default_gap"
+    android:textSize="20sp"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
